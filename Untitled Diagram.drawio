@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2024-07-10T02:28:17.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rp0WCq1DSMHqlFdzI29a" version="24.6.4" type="github">
+  <diagram name="Page-1" id="8WM2ETvSfrai831ZipMa">
+    <mxGraphModel dx="954" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="360" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-7" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="480" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-10" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;PMingLiU&amp;quot;,serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&#xa;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;&#xa;mso-hansi-theme-font:minor-latin&quot; lang=&quot;ZH-TW&quot;&gt;洗手槽&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="265" y="110" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="340" y="516.9999999999999" width="195" height="147.66000000000008" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-13" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="aY2q1vjwSWBt8iPb0eU5-17" vertex="1">
+          <mxGeometry x="-58" y="83" width="253" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-12" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;PMingLiU&amp;quot;,serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&#xa;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;&#xa;mso-hansi-theme-font:minor-latin&quot; lang=&quot;ZH-TW&quot;&gt;點滴&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="aY2q1vjwSWBt8iPb0eU5-17" vertex="1">
+          <mxGeometry x="52" y="87.66000000000008" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-11" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;PMingLiU&amp;quot;,serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&#xa;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;&#xa;mso-hansi-theme-font:minor-latin&quot; lang=&quot;ZH-TW&quot;&gt;庫存藥品&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="260" y="300" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-20" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;PMingLiU&amp;quot;,serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&#xa;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;&#xa;mso-hansi-theme-font:minor-latin&quot; lang=&quot;ZH-TW&quot;&gt;空針、藥品&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="495" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;PMingLiU&amp;quot;,serif;&#xa;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&#xa;minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot; lang=&quot;ZH-TW&quot;&gt;冰箱&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="510" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="360" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aY2q1vjwSWBt8iPb0eU5-24" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;PRP&lt;/span&gt;&lt;span style=&quot;font-family:&amp;quot;PMingLiU&amp;quot;,serif;mso-ascii-font-family:Calibri;&#xa;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&#xa;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot; lang=&quot;ZH-TW&quot;&gt;耗材&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="500" y="380" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nka1zXzXr-HpGmzW53vm-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;direction=south;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="237" y="500" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nka1zXzXr-HpGmzW53vm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="522" y="508" width="120" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
